@@ -1,0 +1,47 @@
+ 
+        *{
+            color:white;      
+        }
+
+        .menu{
+            text-align: center;
+            background-color:aquamarine;
+            display:flex;
+            justify-content: space-between;
+        }
+
+        p{
+            color:aqua;
+
+        }
+
+        .grid{
+            display:flex;
+            flex-wrap:wrap;
+            justify-content: space-evenly;
+            border:solid;
+        }
+
+        .footer{
+            display:flex;
+            justify-content: flex-end;
+
+        }
+
+        h2{
+            text-align: center;
+            color:aquamarine;
+        }
+
+       h1{
+           text-align: center;
+           background-color: #c8c8c8;
+           color:white;
+       }
+
+       body{
+           background-color: #808080;
+       }
+
+        
+        
